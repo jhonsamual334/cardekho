@@ -1,0 +1,1 @@
+predic the price of the car on the bases of features which are given 
